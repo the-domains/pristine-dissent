@@ -1,9 +1,19 @@
-layout_spectrum: 0.6210620496422052
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6781254711095244
 color:
-  brandStrength: 0.5995380356907845
-  lightness: 0.7680122393649071
   saturation: 0.3017827325966209
+  brandStrength: 0.5995380356907845
   rhythmicContrast: 0.1797740717884153
   brandColors:
     - '#E6E2AF'
@@ -11,4 +21,6 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+  lightness: 0.7680122393649071
+layout_spectrum: 0.3602151
 name: pristine dissent
