@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6781254711095244
 color:
   saturation: 0.3017827325966209
   brandStrength: 0.5995380356907845
@@ -22,5 +21,6 @@ color:
     - '#046380'
     - '#002F2F'
   lightness: 0.7680122393649071
+typography_spectrum: 0.2168459
 layout_spectrum: 0.3602151
 name: pristine dissent
